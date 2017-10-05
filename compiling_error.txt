@@ -1,3 +1,0 @@
-C:\Users\haoyu\stringy\Makefile.c:1:10: error: expected '=', ',', ';', 'asm' or '__attribute__' before ':' token
- hellomake: strings.c
-          ^
